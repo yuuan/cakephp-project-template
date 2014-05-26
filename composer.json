@@ -1,0 +1,15 @@
+{
+	"name": "cakephp-project-template",
+	"repositories": [
+		{
+			"type": "pear",
+			"url": "http://pear.cakephp.org"
+		}
+	],
+	"require": {
+		"cakephp/cakephp": ">=2.5.1"
+	},
+	"config": {
+		"vendor-dir": "Vendor/"
+	}
+}
